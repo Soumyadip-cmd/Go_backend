@@ -7,4 +7,5 @@
 2. Clone the repo
 3. Install dependencies
 4. Start the server
-   `go run main.go`
+   
+`go run main.go`
